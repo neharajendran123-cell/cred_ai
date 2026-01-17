@@ -1,1 +1,1 @@
-This is a simple java program. It has a class named HelloWorld and a main method. Inside the main method, there is code to print "Hello,World" on the console using System.out.println().
+A simple java program that prints "Hello,World".
