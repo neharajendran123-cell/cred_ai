@@ -11,4 +11,4 @@ StackExample.java
 Implemented a stack using Stack class and performed operation to push elements in to stack. Finally,print the element by popping out the stack until the stack is empty.
 
 QueueExample.java
-Implemented a priority queue andperformed operation to add elements in to the queue. Finally print the elements.
+Implemented a priority queue and performed operation to add elements in to the queue. Finally print the elements.
